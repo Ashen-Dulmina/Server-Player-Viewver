@@ -1,0 +1,17 @@
+{
+    "paths": {
+        "playerdata": "./world/playerdata",
+        "stats": "./world/stats",
+        "assets": "./assets/items"
+    },
+    "server_files": {
+        "usercache": "./usercache.json",
+        "ops": "./ops.json",
+        "whitelist": "./whitelist.json"
+    },
+    "ui": {
+        "server_name": "Minecraft Network",
+        "window_size": "1000x500",
+        "appearance_mode": "dark"
+    }
+}
